@@ -1,0 +1,14 @@
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\bin\Debug\netcoreapp2.1\Problem7.deps.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\bin\Debug\netcoreapp2.1\Problem7.runtimeconfig.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\bin\Debug\netcoreapp2.1\Problem7.runtimeconfig.dev.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\bin\Debug\netcoreapp2.1\Problem7.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\bin\Debug\netcoreapp2.1\Problem7.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\bin\Debug\netcoreapp2.1\ADONET exercises.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\bin\Debug\netcoreapp2.1\ADONET exercises.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\obj\Debug\netcoreapp2.1\Problem7.csprojAssemblyReference.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\obj\Debug\netcoreapp2.1\Problem7.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\obj\Debug\netcoreapp2.1\Problem7.AssemblyInfoInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\obj\Debug\netcoreapp2.1\Problem7.AssemblyInfo.cs
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\obj\Debug\netcoreapp2.1\Problem7.csproj.CopyComplete
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\obj\Debug\netcoreapp2.1\Problem7.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\1.FetchingResultSets\Problem7\obj\Debug\netcoreapp2.1\Problem7.pdb

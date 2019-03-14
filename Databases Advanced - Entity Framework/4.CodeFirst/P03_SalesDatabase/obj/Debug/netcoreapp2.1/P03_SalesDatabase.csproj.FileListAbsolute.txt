@@ -1,0 +1,11 @@
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\4.CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csprojAssemblyReference.cache

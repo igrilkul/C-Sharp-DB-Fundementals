@@ -1,0 +1,9 @@
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb

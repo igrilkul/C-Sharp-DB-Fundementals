@@ -1,0 +1,14 @@
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.deps.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.dev.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csprojAssemblyReference.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfoInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfo.cs
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CopyComplete
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\2.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.pdb

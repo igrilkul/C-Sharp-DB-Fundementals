@@ -1,0 +1,11 @@
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\bin\Debug\netcoreapp2.1\SoftUni.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\bin\Debug\netcoreapp2.1\SoftUni.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\obj\Debug\netcoreapp2.1\SoftUni.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\obj\Debug\netcoreapp2.1\SoftUni.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\obj\Debug\netcoreapp2.1\SoftUni.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\3.EntityFramework\3.EntityFramework\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache
