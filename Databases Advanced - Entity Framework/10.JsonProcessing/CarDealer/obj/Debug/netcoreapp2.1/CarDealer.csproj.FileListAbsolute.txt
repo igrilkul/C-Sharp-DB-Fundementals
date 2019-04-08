@@ -1,0 +1,22 @@
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\10.JsonProcessing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

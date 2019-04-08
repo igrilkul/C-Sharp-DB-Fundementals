@@ -1,0 +1,24 @@
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\obj\Debug\netcoreapp2.1\MyApp.csprojAssemblyReference.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\bin\Debug\netcoreapp2.1\Automapper.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\bin\Debug\netcoreapp2.1\Automapper.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\8.AutoMappingObjects\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CopyComplete

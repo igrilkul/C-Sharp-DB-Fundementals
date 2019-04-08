@@ -1,0 +1,11 @@
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\12.ExamPrep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb

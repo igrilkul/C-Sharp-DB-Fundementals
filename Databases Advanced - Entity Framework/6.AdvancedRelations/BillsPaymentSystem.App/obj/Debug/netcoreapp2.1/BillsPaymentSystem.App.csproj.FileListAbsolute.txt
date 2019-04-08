@@ -1,0 +1,16 @@
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.deps.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.runtimeconfig.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.runtimeconfig.dev.json
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.csprojAssemblyReference.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.AssemblyInfoInputs.cache
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.AssemblyInfo.cs
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.dll
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.pdb
+D:\programming\Softuni\C-Sharp-DB-Fundementals\Databases Advanced - Entity Framework\6.AdvancedRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.csproj.CopyComplete
